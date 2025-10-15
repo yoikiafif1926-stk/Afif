@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZAFKA SATRIYA NUSANTARA - Solusi IT dan Kontraktor</title>
+    <style>
+        /* CSS Sederhana */
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+        header { background-color: #007bff; color: white; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; }
+        section { padding: 20px; margin: 10px; background-color: white; border-radius: 5px; }
+        footer { background-color: #007bff; color: white; text-align: center; padding: 10px; position: fixed; bottom: 0; width: 100%; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ZAFKA SATRIYA NUSANTARA</h1>
+        <nav>
+            <a href="">About Us</a>
+            <a href="">Services</a>
+            <a href="">Portfolio</a>
+            <a href="">Contact Us</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>PT zafka satriya nusantara didirikan pada 2022. Didukung oleh tim profesional berpengalaman, kami menyediakan solusi terbaik untuk pengembangan perusahaan Anda.</p>
+        <ul>
+            <li>Didukung oleh tim profesional</li>
+            <li>Pengalaman di bidang terkait</li>
+            <li>Kami menyediakan solusi terbaik</li>
+        </ul>
+    </section>
+
+    <section id="services">
+        <h2>Services</h2>
+        <p>Kami berkomitmen memberikan layanan terbaik untuk kepuasan pelanggan.</p>
+        <h3>IT Solution</h3>
+        <p>Dengan pertumbuhan teknologi, kami fokus pada efisiensi jaringan.</p>
+        <h3>Electricity Solution</h3>
+        <p>Layanan perbaikan, panel listrik, dan instalasi.</p>
+        <h3>General Contractor</h3>
+        <p>Menyediakan material, tenaga, dan layanan untuk proyek konstruksi.</p>
+        <h3>CCTV Solution</h3>
+        <p>Instalasi, pemeliharaan, dan pengadaan CCTV.</p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <p>Proyek kami:</p>
+        <ul>
+            <li><a href="#">IT Solution 1</a></li>
+            <li><a href="#">Electricity Solution 1</a></li>
+            <li><a href="#">General Contractor 1</a></li>
+            <!-- Tambahkan lebih banyak dengan gambar jika diperlukan -->
+        </ul>
+    </section>
+
+   
+
+    <footer>
+        <p>&copy; ZAFKA SATRIYA NUSANTARA. All rights reserved.</p>
+    </footer>
+</body>
+</html>
